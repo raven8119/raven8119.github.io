@@ -312,7 +312,7 @@ DISPLAY WIDTH <= 1270px
     transition: 1s;
 }
 .mainNav ul li:hover .dropdown{
-    background-color: #002D62;
+    box-shadow: none;
     display:block;
     width: 100% !important;
     line-height: 65px;
