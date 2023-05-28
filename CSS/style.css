@@ -668,4 +668,7 @@ DISPLAY WIDTH <= 600PX
         height: 17px;
         border: #03045E solid 2px;
     }
+    #explore-button{
+        width:auto;
+    }
 }
