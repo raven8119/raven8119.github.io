@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Categories of Sea Turtles</title>
+    <link rel="stylesheet" href="CSS/style.css">
+    <link rel="shortcut icon" href="media/icon.png" type="image/x-icon">
+</head>
+<body>
+    <div id="toTheTop"></div>
+    <div class="nav-header">
+        <input type="checkbox" id="toggle">
+        <nav class="mainNav">
+            <a href="index.html" class="site-name">Turtles of LK :)</a>
+            <label class="navBar-toggle" for="toggle">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </label>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li class="active"><a href="categories.html">Categories of Turtles</a></li>
+                <li><a href="threats-to-turtles.html">Threats to Turtles</a></li>
+                <li><a href="hikkaduwa.html">Hikkaduwa Turtle Hatchery</a></li>
+                <li><a href="purchase-and-donate.html">Support Us</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="container">
+
+
+
+    
+        <!--Default-->
+        <a href="#toTheTop"><img src="media/arrow-up.png" alt="" class="top-button"></a>
+        <hr>   
+        <div class="footer">
+            <div class="footer-content">
+                <div class="footer-content-1">
+                    <h2 class="footer-header">About Us</h2>
+                    <p>Sea turtle safety and conservation are our top priorities at our turtle hatchery. We remove turtle eggs from unsafe nesting locations and carefully incubate them until they are mature enough to be returned to the ocean. Our goal is to teach people about sea turtle protection while also providing guided tours of our hatchery. We are proud of our dedication to environmentally friendly techniques and responsible tourism, and we work together with regional communities to further these practices. Come to our hatchery to help us safeguard these incredible creatures.   </p>
+                </div>
+                <div class="footer-content-1">
+                    <h2 class="footer-header">Contact Us</h2>
+                    <p>Email: <a href="mailto:email@email.com">email@email.com</a></p>
+                    <p>Tel: <a href="tel:+9477xxxxxxx">+94 77 XXX XXXX  </a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
