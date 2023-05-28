@@ -191,14 +191,11 @@ input:checked ~ .mainNav .navBar-toggle .bar:nth-child(3){
     justify-content: center;
 }    
 #explore-button {
-    width: 110px;
+    width: 120px;
     height: 41px;
 }    
 #explore-button:hover {
-    font-size: 1.1em;
-    width: 120px;
-    height: 41px;
-    transition:130ms ease-in-out;
+    font-size: inherit;
 }
 .threat-page h3 {
     text-align: center;
