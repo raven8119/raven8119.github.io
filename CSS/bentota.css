@@ -1,11 +1,10 @@
 body {
     background:scroll linear-gradient(#0F2027, #203A43,#2C5364);
-
     background-size: 200% 200%;
     min-height: 100vh;
     max-width: 100%;
     animation: color 13s ease-in-out infinite;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: justify;
     color: #fff;
     font-size: 1em;
