@@ -84,16 +84,17 @@ p.tagline{
 }
 .mainNav ul li .dropdown{
     width: 100%;
-    background: #002D62;
+    background: #fff;
+    color: #002D62;
     position:relative;
     z-index: 999;
     display: none;
     box-shadow: 0px 3px 5px #232528 ;
 }
-.mainNav ul li .dropdown a{
+.mainNav ul li .dropdown a li{
     display: block;
     padding: 0;
-    color: #fff;
+    color: #002D62;
 }
 .mainNav ul li.active a{
     color: #fff;
@@ -104,10 +105,10 @@ p.tagline{
     background: #002D62;
     transition: 0.4s ease-in-out;
 }
-.mainNav ul li .dropdown li.active,
-.mainNav ul li .dropdown a:hover{
-    color: #002D62;
-    background: #fff;
+.mainNav ul li .dropdown a li:hover,
+.mainNav ul li .dropdown a li.active{
+    color: #fff;
+    background: #002D62;
     transition: 0.4s;
 }
 .mainNav ul li:hover ul.dropdown{
