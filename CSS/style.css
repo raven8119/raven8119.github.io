@@ -4,7 +4,7 @@ body {
     min-height: 100vh;
     max-width: 100%;
     animation: color 7s ease-in-out infinite;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
     text-align: justify;
     color: #232528;
     font-size: 1.1em;
@@ -181,8 +181,8 @@ input:checked ~ .mainNav .navBar-toggle .bar:nth-child(3){
 }  
 .dropcap{
     float: left;
-    font-size: 2.5em;
-    line-height: 35px;
+    font-size: 2.359em;
+    line-height: 40px;
     padding: 0px 1px 0 0px;
 }   
 .intro-para {
